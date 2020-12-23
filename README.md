@@ -8,14 +8,10 @@ Hill climbs, jumps, loops, ramps in this crasy game.
 
 -Updates, Speed, Stability, Air Tilt
 
-Start playing!
+Start playing!  -> https://ainazimo.github.io/
 
+![alt text](https://i.pinimg.com/originals/e0/49/0c/e0490cac7cdcae96319c46633f1eb928.png)
 
-
-
-
-
-
-
-team members list:
+<hr>
+Team members list:
 Ainazik Momunalieva & Argen Teshebaev
