@@ -21,7 +21,7 @@ Start playing!  -> https://ainazimo.github.io/
 
 # Feadbacks
 
-![From Danil](https://drive.google.com/drive/folders/1IzVRX2gtqEL-pFqyPrS-scMHL3F6VKMa)
+[![From Danil](https://drive.google.com/drive/folders/1IzVRX2gtqEL-pFqyPrS-scMHL3F6VKMa)](https://drive.google.com/drive/folders/1IzVRX2gtqEL-pFqyPrS-scMHL3F6VKMa)
 
 <hr>
 Team members list:
