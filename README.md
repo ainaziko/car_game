@@ -20,6 +20,7 @@ Start playing!  -> https://ainazimo.github.io/
 <hr>
 
 # Feadbacks
+[![From Abdumazhit](https://www.youtube.com/watch?v=AP4AMeN5FH0)](https://www.youtube.com/watch?v=AP4AMeN5FH0)
 
 [![From Danil and one girl](https://drive.google.com/drive/folders/1IzVRX2gtqEL-pFqyPrS-scMHL3F6VKMa)](https://drive.google.com/drive/folders/1IzVRX2gtqEL-pFqyPrS-scMHL3F6VKMa)
 
