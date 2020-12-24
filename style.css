@@ -5,7 +5,15 @@ body{
   font-size: 1.25em;
 }
 
-canvas{
-  border:1px;
-  solid #d3d3d3;
+div{
+  color: #F50;
+}
+
+.logo {
+  z-index: 2;
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  height: 150px;
+
 }
