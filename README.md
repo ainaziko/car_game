@@ -11,7 +11,18 @@ Hill climbs, jumps, loops, ramps in this crasy game.
 Start playing!  -> https://ainazimo.github.io/
 
 ![alt text](https://i.pinimg.com/originals/e0/49/0c/e0490cac7cdcae96319c46633f1eb928.png)
+
+<hr>
+
+# Presentation
+
 [![Video Presentation](https://youtu.be/E303x388jvM)](https://youtu.be/E303x388jvM)
+<hr>
+
+# Feadbacks
+
+![From Danil](https://drive.google.com/drive/folders/1IzVRX2gtqEL-pFqyPrS-scMHL3F6VKMa)
+
 <hr>
 Team members list:
 Ainazik Momunalieva & Argen Teshebaev
