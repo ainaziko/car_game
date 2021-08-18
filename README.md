@@ -1,5 +1,3 @@
-# ainazimo.github.io
-
 # Fun with silly physics
 The most addictive  & fun physics based driving game!
 
